@@ -1,1 +1,1 @@
-# tomato-leaf-classification-using-deep-learning
+# Tomato-Leaf-Disease-Prediction
